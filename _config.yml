@@ -23,11 +23,19 @@ remote_theme: jekyll/minima
 
 # Setting the skin of the theme to dark
 minima:
-  skin: dark
+  # skin: dark
+  skin: auto
 
 # GFM : github format markdown
 kramdown:
   input: GFM
+
+header_pages:
+  - index.md
+  - curriculum_vitae.md
+
+social_links:
+    - { platform: github,  user_url: "https://github.com/plagache" }
 
 # Exclude these files from production site
 exclude:
