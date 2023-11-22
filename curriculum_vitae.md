@@ -2,9 +2,9 @@
 
 [06 87 06 82 82](tel:+33687068282)
 
-plagache@protonmail.com
+[plagache@protonmail.com](mailto:plagache@protonmail.com)
 
-[Portfolio](https://plagache.github.io/) 
+[Portfolio](https://plagache.github.io/)
 
 [Profile github](https://github.com/plagache)
 
@@ -12,14 +12,14 @@ plagache@protonmail.com
 
 ---
 
-### Résumé - Summary
+### Résumé
 
 Reconverti en 2018 vers le domaine de l'informatique, j'ai intégré avec succès l'école 42, où j'ai développé une passion pour l'apprentissage continu et la collaboration avec mes pairs.
 Maîtrisant plusieurs langages de programmation et capable de travailler sur n'importe quel système d'exploitation, je suis également à l'aise pour communiquer en anglais.
 
 ---
 
-### Expériences Professionnel - Professional Experience
+### Expériences Professionnel
 
 **NTLM TECHNOLOGIES**
 
@@ -40,7 +40,7 @@ Oct. 2020 - Mars 2021 *Développeur Front-end*
 
 ---
 
-### Éducation - Education
+### Éducation
 
 **[École 42](https://42.fr/)**, Paris
 
@@ -56,9 +56,9 @@ Oct. 2020 - Mars 2021 *Développeur Front-end*
 
 ---
 
-###  Compétence - Skill
+### Compétence
 
-- Langues : Anglais (TOEIC 795)
+- Langues: Anglais (TOEIC 795)
 - Travail en equipe
 - Apprentissage rapide de nouveaux language
 - refactorisation
@@ -77,7 +77,7 @@ Maitrise :
 - qemu/KVM
 
 
-Programming Language : 
+Language de programmation :
 - C
 - Python
 - Bash
