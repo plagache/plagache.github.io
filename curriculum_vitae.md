@@ -25,18 +25,22 @@ Maîtrisant plusieurs langages de programmation et capable de travailler sur n'i
 
 Mars 2021 - Août 2022 *Développeur Logiciel*
 
-- Développement de solutions et d’applications web - Front et back
-- Maintenance des serveurs et du logiciel
-- Administration de bases de données (SQL)
-- Echange et présentation du logiciel au client
+En tant que développeur logiciel au sein de NTLM TECHNOLOGIES, j'ai été impliqué dans des projets de développement de solutions et d'applications web, tant du côté Front-end que Back-end. Mes principales responsabilités comprenaient :
+
+- Conception, développement et maintenance de solutions web.
+- Gestions des serveurs pour assurer le bon fonctionnement du logiciel.
+- Administration de bases de données SQL
+- Communication régulière avec les clients pour comprendre leurs besoins et présenter des solutions logicielles adaptées.
 
 **NTLM TECHNOLOGIES**
 
 Oct. 2020 - Mars 2021 *Développeur Front-end*
 
-- Maintien et amélioration continue du site
-- Développement de nouvelles fonctionnalités Front (Angular)
-- Intégration de l'API (Back) aux services web (Front)
+En tant que développeur Front-end chez NTLM TECHNOLOGIES, mes réalisations principales incluaient :
+
+- Développement de fonctionnalités Front-end en utilisant Angular.
+- Intégration de l'API Back-end dans les services web Front-end pour améliorer la connectivité et les performances.
+- Maintenance du site web pour garantir une expérience utilisateur optimale.
 
 ---
 
