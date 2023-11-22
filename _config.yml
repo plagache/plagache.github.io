@@ -1,0 +1,37 @@
+###########################################################
+### Welcome to Beautiful Jekyll!
+### This config file is meant for settings that affect your entire website. When you first
+### set up your website you should go through all these settings and edit them, but after
+### the initial set up you won't need to come back to this file often.
+###########################################################
+
+############################
+# --- Required options --- #
+############################
+
+title: My Portfolio
+
+# Your name to show in the footer
+author: plagache
+
+# Output options (more information on Jekyll's site)
+markdown: kramdown
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
