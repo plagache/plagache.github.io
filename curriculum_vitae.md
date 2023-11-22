@@ -54,7 +54,7 @@ En tant que développeur Front-end chez NTLM TECHNOLOGIES, mes réalisations pri
 
 2013 - 2017 *Préparation d'un Master (option Finances)*
 
-**[Baruch college (CUNY)](https://www.baruch.cuny.edu/)**, New-York - USA 
+**[Baruch college (CUNY)](https://www.baruch.cuny.edu/)**, New-York - USA
 
 2016 *Licence en Finance*
 
