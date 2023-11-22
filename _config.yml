@@ -18,6 +18,14 @@ author: plagache
 markdown: kramdown
 paginate: 5
 
+# Fetching remote theme from github
+remote_theme: jekyll/minima
+
+# Setting the skin of the theme to dark
+minima:
+  skin: dark
+
+# GFM : github format markdown
 kramdown:
   input: GFM
 
@@ -35,3 +43,4 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
