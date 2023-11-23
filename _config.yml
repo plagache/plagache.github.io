@@ -31,8 +31,8 @@ kramdown:
   input: GFM
 
 header_pages:
-  - index.md
-  - curriculum_vitae.md
+  - Portfolio: index.md
+  - CV: curriculum_vitae
 
 # Exclude these files from production site
 exclude:
