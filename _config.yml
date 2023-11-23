@@ -34,9 +34,6 @@ header_pages:
   - index.md
   - curriculum_vitae.md
 
-social_links:
-    - { platform: github,  user_url: "https://github.com/plagache" }
-
 # Exclude these files from production site
 exclude:
   - CHANGELOG.md
