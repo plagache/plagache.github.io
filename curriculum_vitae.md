@@ -1,3 +1,8 @@
+---
+layout: page
+title: Curriculum Vitae
+---
+
 ### PIERRE LAGACHE
 
 [06 87 06 82 82](tel:+33687068282)
