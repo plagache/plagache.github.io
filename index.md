@@ -9,7 +9,7 @@ Welcome to my [portfolio!](https://github.com/plagache/plagache.github.io)
 I'm passionate about simple ideas, simple designs and simple solutions.
 Scroll through to discover my journey and the stories behind each project.
 
-Here is a link to my resume: [fr](https://plagache.github.io/curriculum_vitae)
+Here is a link to my resume: [fr](https://plagache.github.io/curriculum_vitae) | [eng](https://plagache.github.io/resume)
 
 ---
 
