@@ -1,4 +1,7 @@
-## Software Developer
+---
+layout: home
+title: Portfolio
+---
 
 Hello, I am Pierre Lagache.
 
