@@ -17,8 +17,8 @@ title: Resume
 
 ### Summary
 
-Reinvented in 2018 into the realm of computer science, I successfully joined École 42, fostering a passion for continuous learning and collaboration.
-Proficient in multiple programming languages and capable across any operating systems.
+I transitioned into the field of computer science in 2018, successfully joining school 42, where I developed a passion for continuous learning and collaboration with peers.
+Proficient in multiple programming languages and capable of working on any operating system, I am eager to apply my experience and skills to contribute to your company in the field of computer science.
 
 ---
 
