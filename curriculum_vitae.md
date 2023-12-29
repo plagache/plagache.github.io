@@ -3,17 +3,13 @@ layout: page
 title: Curriculum Vitae
 ---
 
-### PIERRE LAGACHE
+## PIERRE LAGACHE
 
-[06 87 06 82 82](tel:+33687068282)
-
-[plagache@protonmail.com](mailto:plagache@protonmail.com)
-
-[Portfolio](https://plagache.github.io/)
-
-[Profile github](https://github.com/plagache)
-
-60520 Pontarmé
+Adresse: [60520 Pontarmé](https://www.openstreetmap.org/search?query=60520%20pontarme#map=13/49.1640/2.5646)  
+Mobile: [06 87 06 82 82](tel:+33687068282)  
+Email: plagache@protonmail.com  
+Portfolio: [https://plagache.github.io](https://plagache.github.io)  
+Github: [https://github.com/plagache](https://github.com/plagache)  
 
 ---
 
@@ -30,22 +26,21 @@ Maîtrisant plusieurs langages de programmation et capable de travailler sur n'i
 
 Mars 2021 - Août 2022 *Développeur Logiciel*
 
-En tant que développeur logiciel au sein de NTLM TECHNOLOGIES, j'ai été impliqué dans des projets de développement de solutions et d'applications web, tant du côté Front-end que Back-end. Mes principales responsabilités comprenaient :
-
-- Conception, développement et maintenance de solutions web.
-- Gestions des serveurs pour assurer le bon fonctionnement du logiciel.
-- Administration de bases de données SQL
-- Communication régulière avec les clients pour comprendre leurs besoins et présenter des solutions logicielles adaptées.
+- Création d'un system de statuts pour les commandes, permettant la synchronisation des différents agents dans le monde
+- Portage et amélioration du system d'administration des ventes vers la nouvelle version du logiciel, assurant un suivi de la prise de commande jusqu'à l'expédition
+- Échange et présentation avec les clients pour introduire et expliquer les nouvelles fonctionnalités. Gestion active des réunions pour ajuster les aspects du logiciel en fonction des retours client
+- Administration de bases de données (SQL) et du serveur
+- Déploiement et maintenance corrective du logiciel
 
 **NTLM TECHNOLOGIES**
 
 Oct. 2020 - Mars 2021 *Développeur Front-end*
 
-En tant que développeur Front-end chez NTLM TECHNOLOGIES, mes réalisations principales incluaient :
-
-- Développement de fonctionnalités Front-end en utilisant Angular.
-- Intégration de l'API Back-end dans les services web Front-end pour améliorer la connectivité et les performances.
-- Maintenance du site web pour garantir une expérience utilisateur optimale.
+- Développement de nouvelles fonctionnalités Front avec le langage Typescript et le framework Angular
+- Création d'une nouvelle interface de consultation des commandes
+- Intégration de l'API (Back) aux services web (Front)
+- Maintien et amélioration continue du site
+- Résolution des anomalies dans l’interface utilisateur
 
 ---
 
@@ -72,7 +67,6 @@ En tant que développeur Front-end chez NTLM TECHNOLOGIES, mes réalisations pri
 - Apprentissage rapide de nouveaux language
 - refactorisation
 
-
 Maitrise :
 - All Operating System
 - Shell and scripting
@@ -85,8 +79,7 @@ Maitrise :
 - libvirt
 - qemu/KVM
 
-
-Language de programmation :
+Programming Language :
 - C
 - Python
 - Bash
