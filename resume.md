@@ -5,13 +5,11 @@ title: Resume
 
 ### PIERRE LAGACHE
 
-[06 87 06 82 82](tel:+33687068282)
-
-[plagache@protonmail.com](mailto:plagache@protonmail.com)
-
-[Portfolio](https://plagache.github.io/)
-
-[Profile github](https://github.com/plagache)
+Adress: [60520 Pontarmé](https://www.openstreetmap.org/search?query=60520%20pontarme#map=13/49.1640/2.5646)  
+Mobile: [06 87 06 82 82](tel:+33687068282)  
+Email: [plagache@protonmail.com](mailto:plagache@protonmail.com)  
+Portfolio: [https://plagache.github.io](https://plagache.github.io)  
+Github: [https://github.com/plagache](https://github.com/plagache)  
 
 ---
 
