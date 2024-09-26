@@ -7,22 +7,23 @@ Hello, I am Pierre Lagache.
 I'm passionate about creating simple solutions to projects that have a profound impact.
 Scroll through to discover my journey and the stories behind each project.
 
----
-
-Contact and informations
+### Contact and informations
 
 0687068282
+
 plagache@protonmail.com
+
 https://github.com/plagache
+
 https://www.malt.fr/profile/pierrelagache1
 
 ---
 
-Machine Learning:
+## Machine Learning
 - [Data Science X Logistic Regression](#data-science-x-logistic-regression)
 - [Linear Regression](#linear-regression)
 
-System & network:
+## System & network
 - [Inception](#inception-of-things)
 - [Ping](#ping)
 
@@ -39,7 +40,7 @@ In [DSLR](https://github.com/plagache/DSLR), I had to train a multi-classifier u
 ![scatter-plot-example](assets/img/Ancient Runes - Defense Against the Dark Arts.png)
 
 - I had to train a logistic regression that will solve classification problem. After that I created an interface to simplify the tweaking of parameters during training.
-![gradio-interface](assets/img/gradio-interface.png)
+![gradio-interface](assets/img/gradio_interface.png)
 
 ---
 
