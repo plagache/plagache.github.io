@@ -5,4 +5,9 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+body {
+  background-color: #32302f;
+}
+
 .site-footer {display: none;}
+.site-header {display: none;}

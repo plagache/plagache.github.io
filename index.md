@@ -19,12 +19,12 @@ https://www.malt.fr/profile/pierrelagache1
 ---
 
 Machine Learning:
-    - [Data Science X Logistic Regression](#data-science-x-logistic-regression)
-    - [Linear Regression](#linear-regression)
+- [Data Science X Logistic Regression](#data-science-x-logistic-regression)
+- [Linear Regression](#linear-regression)
 
 System & network:
-    - [Inception](#inception-of-things)
-    - [Ping](#ping)
+- [Inception](#inception-of-things)
+- [Ping](#ping)
 
 ---
 
@@ -33,10 +33,13 @@ System & network:
 Jun 2023 - Present
 
 The term DataScience in the title will be clearly considered by some to be abusive. That is true. The subject is vast.
-In [DSLR](https://github.com/plagache/DSLR), I have to perform a multi-classifier using a logistic regression one-vs-all.
+In [DSLR](https://github.com/plagache/DSLR), I had to train a multi-classifier using a logistic regression one-vs-all.
 
 - I had to learn how to read a data set, to visualize it in different ways, to select and clean unnecessary information from the dataset.
-- I have to train a logistic regression that will solve classification problem.
+![scatter-plot-example](assets/img/Ancient Runes - Defense Against the Dark Arts.png)
+
+- I had to train a logistic regression that will solve classification problem. After that I created an interface to simplify the tweaking of parameters during training.
+![gradio-interface](assets/img/gradio-interface.png)
 
 ---
 
