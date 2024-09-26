@@ -2,10 +2,10 @@
 layout: home
 ---
 
-# **Welcome.**
+## **Welcome.**
 
-I am Pierre Lagache, and I am passionate about creating simple yet elegant solutions to projects.
-Scroll through to discover my journey and the stories behind each one.
+I am Pierre Lagache, and I am passionate about creating simple yet elegant solutions to projects.  
+Scroll through to discover my journey and the stories behind each one.  
 Please feel free to [contact](#contact-and-informations) me.
 
 ---
@@ -20,9 +20,9 @@ Please feel free to [contact](#contact-and-informations) me.
 
 ---
 
-### Data Science X Logistic Regression
+## Data Science X Logistic Regression
 
-The term DataScience in the title will be clearly considered by some to be abusive. That is true. The subject is vast.
+The term DataScience in the title will be clearly considered by some to be abusive. That is true. The subject is vast.  
 In [DSLR](https://github.com/plagache/DSLR), I had to train a multi-classifier using a logistic regression one-vs-all.
 
 - I had to learn how to read a data set, to visualize it in different ways, to select and clean unnecessary information from the dataset.
@@ -35,9 +35,9 @@ In [DSLR](https://github.com/plagache/DSLR), I had to train a multi-classifier u
 
 ---
 
-### Inception of Things
+## Inception of Things
 
-This [project](https://github.com/plagache/inception_of_things) is a System Administration related exercise. It consist of setting up several environments under specific rules.
+This [project](https://github.com/plagache/inception_of_things) is a System Administration related exercise. It consist of setting up several environments under specific rules.  
 The whole project has to be done in a virtual machine.
 
 - The first part introduces us to K3s and Vagrant.
@@ -46,9 +46,9 @@ The whole project has to be done in a virtual machine.
 
 ---
 
-### Ping
+## Ping
 
-This [project](https://github.com/plagache/ping) is about recoding the ping command with the C language
+This [project](https://github.com/plagache/ping) is about recoding the ping command with the C language.  
 Ping is the name of a command that allows to test the accessibility of another machine through the IP network. The command measures also the time taken to receive a response, called round-trip time.
 
 - I had to learn about various internet protocole such has ipv4 and icmp.
@@ -58,15 +58,14 @@ Ping is the name of a command that allows to test the accessibility of another m
 
 ---
 
-### Linear Regression
+## Linear Regression
 
-This [project](https://github.com/plagache/linear_regression) was an introduction to the basic concept behind machine learning.
-
+This [project](https://github.com/plagache/linear_regression) was an introduction to the basic concept behind machine learning.  
 I had to create a program that predicts the price of a car by using a linear function train with a gradient descent algorithm.
 
 ---
 
-### Contact and informations
+## Contact and informations
 
 Mobile: [06 87 06 82 82](tel:+33687068282)  
 Email: [plagache@protonmail.com](mailto:plagache@protonmail.com)  
