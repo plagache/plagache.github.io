@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Welcome.
 ---
-
-## **Welcome.**
 
 I am Pierre Lagache, and I am passionate about creating simple yet elegant solutions to projects.  
 Scroll through to discover my journey and the stories behind each one.  
