@@ -30,8 +30,9 @@ minima:
 kramdown:
   input: GFM
 
-header_pages:
-  - resume.md
+# Create a header
+# header_pages:
+#   - resume.md
 
 # Exclude these files from production site
 exclude:
