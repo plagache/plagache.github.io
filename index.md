@@ -10,12 +10,21 @@ Please feel free to [contact](#contact-and-informations) me.
 ---
 
 ## Machine Learning
+- [Multilayer perceptron](#multilayer-perceptron)
 - [Data Science X Logistic Regression](#data-science-x-logistic-regression)
 - [Linear Regression](#linear-regression)
 
 ## System & network
 - [Inception](#inception-of-things)
 - [Ping](#ping)
+
+---
+
+## Multilayer Perceptron
+
+To realize this [project](https://github.com/plagache/fusion) I am writing a machine learning framework composed of a Tensor class that perform automatic calculus of Derivatives.  
+The Idea is to leverage the [chain rule](https://en.wikipedia.org/wiki/Chain_rule) and a Topological sort of our operation to compute the gradient.  
+Finaly, I will make an Optimizer class that will perform differents types of parameters optimization.
 
 ---
 
