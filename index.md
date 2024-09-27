@@ -55,12 +55,16 @@ Ping is the name of a command that allows to test the accessibility of another m
 - I had to implement parsing for different icmp echo responses.
 - I had to implement time management to determine the round-trip time.
 
+![ping_command_example](assets/img/ping_command.png)
+
 ---
 
 ## Linear Regression
 
 This [project](https://github.com/plagache/linear_regression) was an introduction to the basic concept behind machine learning.  
 I had to create a program that predicts the price of a car by using a linear function train with a gradient descent algorithm.
+
+![linear_gif](assets/img/linear_training.gif)
 
 ---
 
